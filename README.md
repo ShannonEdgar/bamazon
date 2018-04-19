@@ -5,10 +5,10 @@ To use it make sure you have MySQL set up on your machine. You will also need to
 
 To run the customer interface please follow the steps below:
 
-Clone the repository to your machine
-cd bamazon
-npm install
-node bamazonCustomer.js
-follow the prompts
+Clone the repository to your machine<br>
+cd bamazon<br>
+npm install<br>
+node bamazonCustomer.js<br>
+follow the prompts<br>
 
 
